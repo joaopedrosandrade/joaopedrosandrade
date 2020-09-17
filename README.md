@@ -23,7 +23,8 @@ Hi, I'm João Pedro, but you can call me **João**.
 I'm a Front-end Developer from Brazil 💚, **25 years old** 👶🏻 and **8 years of coding** 🧐. 
 
 
-* ✏ Weekly writer on iserver.live, [follow me](https://iserver.live). 
+* ✏ Creator gesduca.com.br, [follow me](https://gesduca.com.br).
+* ✏ Webdeveloper iserver.live, [follow me](https://iserver.live). 
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
 
 
