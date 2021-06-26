@@ -24,7 +24,7 @@ I'm a Front-end Developer from Brazil 💚, **25 years old** 👶🏻 and **9 ye
 
 
 * ✏ My Resume, [access](https://www.linkedin.com/in/joaopedroandrade/).
-* ✏ Webdeveloper 
+* ✏ Webdeveloper Laravel
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
 
 
