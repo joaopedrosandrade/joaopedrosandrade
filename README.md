@@ -20,11 +20,11 @@
 
 Hi, I'm João Pedro, but you can call me **João**. 
 
-I'm a Front-end Developer from Brazil 💚, **25 years old** 👶🏻 and **8 years of coding** 🧐. 
+I'm a Front-end Developer from Brazil 💚, **25 years old** 👶🏻 and **9 years of coding** 🧐. 
 
 
-* ✏ Creator gesduca.com.br, [access](https://gesduca.com.br).
-* ✏ Webdeveloper iserver.live, [access](https://iserver.live). 
+* ✏ My Resume, [access](https://www.linkedin.com/in/joaopedroandrade/).
+* ✏ Webdeveloper 
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
 
 
