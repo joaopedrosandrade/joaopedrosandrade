@@ -20,7 +20,7 @@
 
 Hi, I'm João Pedro, but you can call me **João**. 
 
-I'm a Front-end Developer from Brazil 💚, **28 years old** 👶🏻 and **10 years of coding** 🧐. 
+I'm a Front-end Developer from Brazil 💚, **29 years old** 👶🏻 and **11 years of coding** 🧐. 
 
 
 * ✏ My Resume, [access](https://www.linkedin.com/in/joaopedroandrade/).
